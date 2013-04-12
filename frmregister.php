@@ -5,8 +5,6 @@ Registration
 </title>
 </head>
 <body>
-
-Ambot lang
 <?php $this->load->view('nonusermenu.php');  ?>
 
 <?php echo form_open('register'); ?>
